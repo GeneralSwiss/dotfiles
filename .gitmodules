@@ -1,0 +1,21 @@
+[submodule ".config/nvim/plugged/awesome-vim-colorschemes"]
+	path = .config/nvim/plugged/awesome-vim-colorschemes
+	url = https://github.com/rafi/awesome-vim-colorschemes.git
+[submodule ".config/nvim/plugged/vim-rooter"]
+	path = .config/nvim/plugged/vim-rooter
+	url = https://github.com/airblade/vim-rooter.git
+[submodule ".config/nvim/plugged/vim-surround"]
+	path = .config/nvim/plugged/vim-surround
+	url = https://github.com/tpope/vim-surround.git
+[submodule ".config/nvim/plugged/vim-sensible"]
+	path = .config/nvim/plugged/vim-sensible
+	url = https://github.com/tpope/vim-sensible.git
+[submodule ".config/nvim/plugged/nvim-web-devicons"]
+	path = .config/nvim/plugged/nvim-web-devicons
+	url = https://github.com/kyazdani42/nvim-web-devicons.git
+[submodule ".config/nvim/plugged/nvim-tree.lua"]
+	path = .config/nvim/plugged/nvim-tree.lua
+	url = https://github.com/kyazdani42/nvim-tree.lua.git
+[submodule ".config/nvim/plugged/nvim-lspconfig"]
+	path = .config/nvim/plugged/nvim-lspconfig
+	url = https://github.com/neovim/nvim-lspconfig.git
