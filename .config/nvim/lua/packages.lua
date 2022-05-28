@@ -4,6 +4,7 @@ vim.call('plug#begin', '~/.config/nvim/plugged')
 
 Plug 'tpope/vim-sensible'
 Plug 'tpope/vim-surround'
+Plug 'tpope/vim-commentary'
 Plug 'rafi/awesome-vim-colorschemes'
 Plug 'neovim/nvim-lspconfig'
 Plug 'airblade/vim-rooter'
